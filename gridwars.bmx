@@ -15,7 +15,7 @@ Framework SDL.GL2SDLMax2D
 Framework BRL.GLMax2D
 ?
 
-Import BRL.RandomDefault
+Import BRL.Random
 
 Import "vectorfont.bmx"
 Import "colordefs.bmx"

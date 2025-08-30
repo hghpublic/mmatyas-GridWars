@@ -1,6 +1,6 @@
 Strict
 
-Import BRL.RandomDefault
+Import BRL.Random
 Import BRL.PNGLoader
 
 
